@@ -14,7 +14,7 @@
 │  ├─ test_i2s_single.ino         # sketch de teste I2S (2 mics)
 ├─ docs/
 │  ├─ Relatório_LOCALIZAÇÃO ESPACIAL DE FONTES SONORAS_final.pdf # relatório final
-│  ├─ electronics-11-00890.pdf    # artigo usado (método / background)
+│  ├─ electronics-11-00890.pdf    # artigo principal de embasamento do projeto
 
 ```
 
@@ -57,8 +57,6 @@
 
 ---
 
----
-
 ## Resultados
 - Estimação em tempo real de Δt e direção da fonte.  
 - LEDs indicam lado da origem do som.  
@@ -67,10 +65,9 @@
 
 ---
 
-## Referências e Datasheets
-- Artigo: [electronics-11-00890.pdf](docs/electronics-11-00890.pdf)  
-- Datasheet: [INMP441-Datasheet.pdf](docs/INMP441-Datasheet.pdf)  
-- Relatório Final: [Relatório_LOCALIZAÇÃO.pdf](docs/Relatório_LOCALIZAÇÃO.pdf)
+## Datasheets dos componentes
+- ESP32-WROOM-32D: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+- Microfone Digital I2S INMP441: https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
 
 ---
 
