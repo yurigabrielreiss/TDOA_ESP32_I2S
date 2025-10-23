@@ -71,8 +71,5 @@
 
 ---
 
----
-
 ## Contato
 yurigabrielreiss@hotmail.com
-UTFPR – Campus Pato Branco
